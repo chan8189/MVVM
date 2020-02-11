@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#A9A9A9</color>
+    <color name="orange">#FF6503</color>
+    <color name="red">#fff00000</color>
+    <color name="blue">#2739D6</color>
+    <color name="skyBlue">#29B8FA</color>
+    <color name="darkBlue">#1458C8</color>
+    <color name="appSquareBlack">#232625</color>
+    <color name="selectedItemBackgroudColor">#CEDFFE</color>
+    <color name="green">#2CBB8E</color>
+    <color name="darkGreen">#2DBB8E</color>
+    <color name="greyTextColor">#717678</color>
+    <color name="mediumGreyTextColor">#515557</color>
+    <color name="lightGrey">#BBBFED</color>
+    <color name="darkTextColor">#282A2B</color>
+    <color name="lightTextColor">#878E92</color>
+    <color name="transparent">#00000000</color>
+    <color name="noDataTextColor">#a3b2cd</color>
+
+    <color name="loginBtnStartColor">#6060F1</color>
+    <color name="loginBtnEndColor">#0056EC</color>
+    <color name="settingsBackgroundColor">#EDF2FB</color>
+
+    <color name="whiteWithAlpha">#75FFFFFF</color>
+    <color name="whiteWithAlpha73">#BAFFFFFF</color>
+    <color name="whiteWithAlpha85">#D9FFFFFF</color>
+
+    <color name="blueWithAlpha">#59293ACF</color>
+    <color name="greenWithAlpha">#592CBB8E</color>
+    <color name="orangeWithAlpha">#59FF6503</color>
+    <color name="detail_light_blue">#EDF2FB</color>
+    <color name="tab_dot_blue">#7F96FF</color>
+</resources>
